@@ -1,7 +1,7 @@
 # Curso de Python (Ivan_version)
 
-![example workflow](https://github.com/fralfaro/DS-Python-Course/actions/workflows/documentation.yml/badge.svg)
-<a href="https://fralfaro.github.io/DS-Python-Course/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
+![example workflow](https://github.com/IvanRenatoC/prueba_202309/actions/workflows/documentation.yml/badge.svg)
+<a href="https://IvanRenatoC.github.io/prueba_202309/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
 
 
 ## Descripción del Repositorio
