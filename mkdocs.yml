@@ -1,14 +1,14 @@
 # Copyright (c) 2016-2022 Martin Donath <martin.donath@squidfunk.com>
 
 # Project information
-site_name: Prueba de curso
-site_url: https://github.com/IvanRenatoC/prueba_202309
+site_name: Contenidos
+site_url: https://github.com/IvanRenatoC/Business-Intelligence
 site_author: Ivan Renato C.
 site_description:
 
 # Repository
-repo_name: IvanRenatoC/prueba_202309
-repo_url: https://github.com/IvanRenatoC/prueba_202309
+repo_name: IvanRenatoC/Business-Intelligence
+repo_url: https://github.com/IvanRenatoC/Business-Intelligence
 edit_uri: ''
 
 
@@ -87,7 +87,7 @@ nav:
     - Introducción:
         - intro.ipynb
         - basic.ipynb
-    - Data Engineering:
+    - Ética:
         - pandas.ipynb
         - seaborn.ipynb
 
