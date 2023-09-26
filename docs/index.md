@@ -1,15 +1,16 @@
-# Titulo prueba
+# Business Intelligence
 
-## Subtitulo prueba
+## Introducción
 
-El material está disponible en el siguiente [repositorio](https://github.com/IvanRenatoC/prueba_202309), para obtener el código de fuente basta con que ejecutes el siguiente comando:
+El material está disponible en el siguiente [repositorio](https://github.com/IvanRenatoC/Business-Intelligence), para obtener el código de fuente basta con que ejecutes el siguiente comando:
 
-> `https://github.com/IvanRenatoC/prueba_202309`
+> `https://github.com/IvanRenatoC/Business-Intelligence`
 
 
 ## Contenidos temáticos
 
-* Introducción a Python
-* Nomenclatura
-* Introducción Pandas
-* Introducción Seaborn
+* EDA
+* Data Storytelling
+* AB-Test
+* Business Case
+* Ética para BI
