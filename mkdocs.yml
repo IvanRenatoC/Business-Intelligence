@@ -1,14 +1,14 @@
 # Copyright (c) 2016-2022 Martin Donath <martin.donath@squidfunk.com>
 
 # Project information
-site_name: Home
-site_url: https://github.com/fralfaro/DS-Python-Course
-site_author: Francisco Alfaro
+site_name: Prueba de curso
+site_url: https://github.com/IvanRenatoC/prueba_202309
+site_author: Ivan Renato C.
 site_description:
 
 # Repository
-repo_name: fralfaro/DS-Python-Course
-repo_url: https://github.com/fralfaro/DS-Python-Course
+repo_name: IvanRenatoC/prueba_202309
+repo_url: https://github.com/IvanRenatoC/prueba_202309
 edit_uri: ''
 
 
@@ -68,7 +68,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/fralfaro
+      link: https://github.com/IvanRenatoC
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/faam/
     - icon: fontawesome/solid/globe
@@ -84,10 +84,10 @@ plugins:
 # TOC
 nav:
     - Home: index.md
-    - Conceptos Básicos:
+    - Introducción:
         - intro.ipynb
         - basic.ipynb
-    - Manipulación Datos:
+    - Data Engineering:
         - pandas.ipynb
         - seaborn.ipynb
 
