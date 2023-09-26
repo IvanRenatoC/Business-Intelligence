@@ -1,7 +1,7 @@
 # Curso de Python (Ivan_version)
 
-![example workflow](https://github.com/IvanRenatoC/prueba_202309/actions/workflows/documentation.yml/badge.svg)
-<a href="https://IvanRenatoC.github.io/prueba_202309/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
+![example workflow](https://github.com/IvanRenatoC/Business-Intelligence/actions/workflows/documentation.yml/badge.svg)
+<a href="https://IvanRenatoC.github.io/Business-Intelligence/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
 
 
 ## Descripción del Repositorio
@@ -72,8 +72,8 @@ donde:
 ### [Readme.md](README.md)
 
 ```
-![example workflow](https://github.com/fralfaro/DS-Python-Course/actions/workflows/documentation.yml/badge.svg)
-<a href="https://fralfaro.github.io/DS-Python-Course/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
+![example workflow](https://github.com/IvanRenatoC/Business-Intelligence/actions/workflows/documentation.yml/badge.svg)
+<a href="https://IvanRenatoC.github.io/Business-Intelligence/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
 ```
 
 Debe cambiar:
@@ -88,13 +88,13 @@ Debe cambiar:
 ```
 # Project information
 site_name: Home
-site_url: https://github.com/fralfaro/DS-Python-Course
+site_url: https://github.com/IvanRenatoC/Business-Intelligence
 site_author: Francisco Alfaro
 site_description:
 
 # Repository
-repo_name: fralfaro/DS-Python-Course
-repo_url: https://github.com/fralfaro/DS-Python-Course
+repo_name: IvanRenatoC/Business-Intelligence
+repo_url: https://github.com/IvanRenatoC/Business-Intelligence
 edit_uri: ''
 ```
 
@@ -125,11 +125,11 @@ Debe cambiar:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/fralfaro
+      link: https://github.com/IvanRenatoC/Business-Intelligence
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/faam/
+      link: https://www.linkedin.com/in/ivanrenatoc/
     - icon: fontawesome/solid/globe
-      link: https://fralfaro.github.io/portfolio/
+      link: https://www.linkedin.com/in/ivanrenatoc/
 ```
 En esta sección se agregan las redes sociales 
 que ustedes maneja (más detalles, 
@@ -160,7 +160,7 @@ En esta sección se agregan los archivos `.ipynb` que necesita agregar a su docu
 name = "docs"
 version = "0.1.0"
 description = "mkdocs - courses"
-authors = ["Francisco Alfaro <francisco.alfaro.496@gmail.com>"]
+authors = ["Ivan Renato Canales <ivancanales.c@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 ```
@@ -176,10 +176,10 @@ Introducción básica a Python
 
 ## Material
 
-El material está disponible en el siguiente [repositorio](https://github.com/fralfaro/DS-Python-Course), para obtener el código de fuente basta con que ejecutes el siguiente comando:
+El material está disponible en el siguiente [repositorio](https://github.com/IvanRenatoC/Business-Intelligence), para obtener el código de fuente basta con que ejecutes el siguiente comando:
 
 
-> `https://github.com/fralfaro/DS-Python-Course`
+> `https://github.com/IvanRenatoC/Business-Intelligence`
 
 
 ## Contenidos temáticos
